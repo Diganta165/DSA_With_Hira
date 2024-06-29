@@ -1,0 +1,1 @@
+Find If a number exists in one array, for example if you are given [12,35,56,7] this array, and if you are asked to find 35 is in the array  or not your code should find this. [use if else and array index ]
