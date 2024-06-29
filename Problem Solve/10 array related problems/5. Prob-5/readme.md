@@ -1,0 +1,1 @@
+Find min of two number 12,3 what is the min ?
