@@ -1,0 +1,1 @@
+Find sum from 0 to N [use for loop or any formulae]
