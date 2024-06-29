@@ -1,0 +1,1 @@
+Find Only odd sum, means if you are given [1,3,4,5,5,6,7] this array, please find sum of odd numbers 1+3+5.... Nth Odd
