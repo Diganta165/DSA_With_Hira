@@ -1,0 +1,1 @@
+starCnt *2
